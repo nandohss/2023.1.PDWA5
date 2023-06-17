@@ -16,6 +16,13 @@
 .remove-task-button {
     background-color: #444;
     border: none;
-    font-size: 16px;
+    font-size: 24px;
+    color: white;
+}
+
+.see-task-details-button {
+    background-color: #444;
+    border: none;
+    font-size: 24px;
     color: white;
 }
