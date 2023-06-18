@@ -12,6 +12,6 @@ Prof. Quirino         <luiz.quirino@ifsp.edu.br>
   Use o readme para documentar o andamento do seu projeto.
 
 ## Alterações realizadas frente ao modelo de referência apresentado:
-- alteração xyz;
-- alteração xpto;
-- ...
+- O layout foi costumizado para ter cores diferentes
+- Foi realizada a validação do campo de adição de tarefa. Caso a nova tarefa não seja preenchida, um pop-up de aviso para preenchimento é mostrado.
+- 
